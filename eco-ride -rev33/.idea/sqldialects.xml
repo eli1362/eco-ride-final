@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/public/assets/script/app.js" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/auth/forgot_password.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/auth/login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/auth/register.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/auth/reset_password.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/auth/submit-reservation.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/loginPage.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/process-reservation.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/reservation.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/reserve_driver.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/views/userPage1.php" dialect="GenericSQL" />
+  </component>
+</project>

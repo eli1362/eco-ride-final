@@ -1,0 +1,454 @@
+@media (min-width: 576px) {
+    .planet__wrapper {
+        height: 53rem;
+    }
+
+    .planet__btn {
+        width: 29.8rem;
+        margin-top: 6rem;
+    }
+
+    .login-form {
+        width: 40rem;
+    }
+
+    .login__title {
+        font-size: 1.8rem;
+    }
+
+    .login-checkbox-container {
+        font-size: 1.6rem;
+    }
+
+    .forgot-password {
+        font-size: 1.6rem;
+    }
+
+    .notLogin {
+        font-size: 1.6rem;
+        align-self: flex-start;
+    }
+
+    .register__link {
+        font-size: 1.6rem;
+    }
+
+    .login-form-options {
+        flex-direction: row;
+    }
+
+    .footer-container {
+        flex-direction: row;
+    }
+
+    .footer-right {
+        align-items: flex-end;
+        height: 184.4rem;
+    }
+
+    .search__footer {
+        margin-top: 0;
+    }
+
+    .social-icons {
+        justify-content: flex-end;
+        margin-right: -0.7rem;
+    }
+
+
+    .footer-bottom {
+        margin-top: 3.5rem;
+
+
+    }
+}
+
+@media (min-width: 768px) {
+
+    .ecoride-prime__wrapper {
+
+        margin-top: 0;
+    }
+
+    .ecoride-prime__photo {
+        display: block;
+        margin-top: -7rem;
+    }
+
+    .ecoride-prime__description {
+        height: 36.2rem;
+        padding: 0;
+        margin-top: -3rem;
+    }
+
+    .planet__description-wrapper {
+        margin-top: 0;
+    }
+
+    .planet__description {
+        padding: 0 5rem;
+
+    }
+
+    .newsletter {
+        margin-top: 0;
+    }
+
+    .login-checkbox-container {
+        font-size: 1.8rem;
+    }
+
+    .footer-logo {
+        display: flex;
+    }
+
+    .login__title {
+        margin: 3rem auto 3rem auto;
+        max-width: 46rem;
+        font-size: 2rem;
+
+    }
+
+    .login-form-group input {
+        font-size: 1.6rem;
+    }
+
+    .forgot-password {
+        font-size: 1.8rem;
+    }
+
+    .notLogin {
+        font-size: 1.8rem;
+    }
+
+    .login-form {
+        width: 60rem;
+    }
+
+    .notLogin {
+        margin: 3rem 1.5rem;
+    }
+    .register__link{
+        font-size: 1.8rem;
+    }
+
+
+}
+
+@media (min-width: 992px) {
+    .nav__btn {
+        display: none;
+    }
+
+    .nav {
+        height: 9rem;
+    }
+
+    .desktopNav-address {
+        display: flex;
+        height: 5.5rem;
+    }
+
+    .menu {
+        display: flex;
+
+    }
+
+    .icon-dropdown {
+        display: inline-block;
+    }
+
+    .logo-container__text {
+        font-size: 2.5rem;
+    }
+
+    .profits-wrappers {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+    }
+
+    .profits-wrapper {
+        max-width: 40.5rem;
+        height: 64rem;
+        margin: 0 3rem 0 0;
+    }
+
+    .ecoride-prime__wrapper {
+
+        flex-direction: row;
+        margin-top: 15rem;
+
+
+    }
+
+    .ecoride-prime__description {
+        max-width: 31.7rem;
+        margin: 0 0 0 3rem;
+        justify-content: center;
+        align-items: start;
+        height: 51.2rem;
+    }
+
+    .ecoride-prime__title {
+        text-align: start;
+        font-size: 3rem;
+        line-height: 5.5rem;
+    }
+
+    .planet__pic {
+        display: block;
+        width: 62.5rem;
+    }
+
+    .newsletter__pic {
+        display: block;
+    }
+
+    .newsletter__pic {
+        width: 50.4rem;
+        height: 48.4rem;
+    }
+
+    .newsletter-description__wrapper {
+        width: 36.8rem;
+    }
+
+    .app-promotion {
+        height: 44.2rem;
+    }
+
+    .app-promotion__text {
+        max-width: 50%;
+        margin-bottom: 14%;
+        margin-left: 5%;
+    }
+
+    .app-promotion__image {
+        display: block;
+        width: 46%;
+        margin-top: 4%;
+    }
+
+    .app-promotion__text h2 {
+        font-size: 2.5rem;
+    }
+
+    .app-promotion__text p {
+        font-size: 1.8rem;
+    }
+
+    .login-container {
+        min-height: 56rem;
+    }
+
+    .login__title {
+        font-size: 2.3rem;
+    }
+
+
+    .footer {
+        height: 30rem;
+    }
+
+
+}
+
+@media (min-width: 1024px) {
+    .car-renting__text {
+        font-size: 2.8rem;
+    }
+
+    .big-word {
+        font-size: 3rem;
+    }
+
+    .ecoride-prime__description {
+        max-width: 30.7rem;
+    }
+
+    .ecoride-prime__title {
+        font-size: 2.6rem;
+    }
+
+    .ecoride-prime__text {
+        margin: 2rem 0 3rem 0;
+    }
+
+    .planet__pic {
+
+        width: 63.5rem;
+    }
+
+    .app-logo__img {
+        scale: 1;
+    }
+
+
+}
+
+@media (min-width: 1200px) {
+    .logo-container__text {
+        font-size: 2.8rem;
+    }
+
+    .search {
+        display: block;
+    }
+
+    .car-renting__text {
+        font-size: 2.2rem;
+    }
+
+    .big-word {
+        font-size: 2.4rem;
+    }
+
+    .profits-wrapper {
+        height: 53rem;
+    }
+
+    .ecoride-prime__description {
+        max-width: 46rem;
+    }
+
+    .ecoride-prime__title {
+        font-size: 3rem;
+    }
+
+    .planet__description-wrapper {
+        margin-top: 7rem;
+    }
+
+    .planet__description {
+        padding: 0 10rem;
+
+    }
+
+    .newsletter__pic {
+        width: 56.4rem;
+        height: 53.4rem;
+    }
+
+    .newsletter-description__wrapper {
+        width: 44.8rem;
+    }
+
+    .app-promotion__image {
+        width: 41%;
+
+    }
+
+
+    .login-container {
+        min-height: 56rem;
+    }
+
+    .login__title {
+        font-size: 2.5rem;
+        margin: 5rem auto 5rem auto;
+    }
+    .login-form-group input {
+        padding: 1.6rem;
+        margin-bottom: 2rem;
+    }
+
+}
+
+
+@media (min-width: 1400px) {
+
+    .car-renting__text {
+        font-size: 3.8rem;
+        padding-top: 11rem;
+        max-width: 95rem;
+        line-height: 9rem;
+        margin: auto;
+    }
+
+    .big-word {
+        font-size: 4.2rem;
+    }
+
+    .car-rental-form {
+        flex-direction: row;
+        max-width: 131rem;
+        height: 8rem;
+        margin-top: 10.5rem;
+        border-radius: 6rem;
+    }
+
+    .line {
+        display: block;
+    }
+
+    .search-btn {
+        display: block;
+        width: 16rem;
+        height: 8.4rem;
+        line-height: 8.4rem;
+        font-size: 1.6rem;
+        border-radius: 6rem;
+        padding: 0;
+    }
+
+    .form-group {
+        border-bottom: none;
+    }
+
+    .form-group input,
+    .form-group select {
+        display: block;
+    }
+
+    .icon {
+        margin-left: 3rem;
+    }
+
+    .label {
+        margin-left: 1rem;
+
+    }
+
+    .profits-wrapper {
+        height: 46rem;
+    }
+
+    .ecoride-prime__description {
+        max-width: 59.7rem;
+    }
+
+    .planet__pic {
+
+        width: 53.5rem;
+    }
+
+    .planet__description {
+        padding: 0 13rem;
+
+    }
+
+    .newsletter {
+        margin-top: 4rem;
+    }
+
+    .newsletter__pic {
+        width: 62.4rem;
+        height: 56.4rem;
+    }
+
+    .newsletter-description__wrapper {
+        width: 54.8rem;
+    }
+
+    .login-container {
+        min-height: 72rem;
+    }
+
+    .login-btn{
+        padding: 1.6rem;
+    }
+
+
+}

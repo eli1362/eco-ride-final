@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/eco-ride -rev3",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "USER",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}

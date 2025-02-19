@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/eco_ride-rev49",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "USER",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-mysqli": "*",
+    "ext-pdo": "*",
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
