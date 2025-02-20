@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dc028b1-af34-4774-beb9-cc18fb432a43" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" notifyAboutMissingVendor="false">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2qIhn4z3UbEaIplpMAliHcoIKlZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.add_employee.php (1).executor": "Run",
+    "JavaScript Debug.add_employee.php.executor": "Run",
+    "JavaScript Debug.admin_dashboard.php (1).executor": "Run",
+    "JavaScript Debug.admin_dashboard.php.executor": "Run",
+    "JavaScript Debug.driverInfo.php.executor": "Run",
+    "JavaScript Debug.driverResultPage.php.executor": "Run",
+    "JavaScript Debug.feedback_form.php (1).executor": "Run",
+    "JavaScript Debug.feedback_form.php.executor": "Run",
+    "JavaScript Debug.forgotPassword.html.executor": "Run",
+    "JavaScript Debug.forgotPasswordPage.php.executor": "Run",
+    "JavaScript Debug.history-carpool.php (1).executor": "Run",
+    "JavaScript Debug.history-carpool.php (2).executor": "Run",
+    "JavaScript Debug.history-carpool.php (3).executor": "Run",
+    "JavaScript Debug.history-carpool.php.executor": "Run",
+    "JavaScript Debug.history.php (1).executor": "Run",
+    "JavaScript Debug.history.php (2).executor": "Run",
+    "JavaScript Debug.history.php.executor": "Run",
+    "JavaScript Debug.index.html (1).executor": "Run",
+    "JavaScript Debug.index.html (2).executor": "Run",
+    "JavaScript Debug.index.html (3).executor": "Run",
+    "JavaScript Debug.index.html (4).executor": "Run",
+    "JavaScript Debug.index.html (5).executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.index.php (1).executor": "Run",
+    "JavaScript Debug.index.php (2).executor": "Run",
+    "JavaScript Debug.index.php (3).executor": "Run",
+    "JavaScript Debug.index.php (4).executor": "Run",
+    "JavaScript Debug.index.php (5).executor": "Run",
+    "JavaScript Debug.index.php.executor": "Run",
+    "JavaScript Debug.interviewDriver.php.executor": "Run",
+    "JavaScript Debug.logIn.html.executor": "Run",
+    "JavaScript Debug.login.html.executor": "Run",
+    "JavaScript Debug.login1.html.executor": "Run",
+    "JavaScript Debug.loginAdmin.php.executor": "Run",
+    "JavaScript Debug.loginPage.php (1).executor": "Run",
+    "JavaScript Debug.loginPage.php.executor": "Run",
+    "JavaScript Debug.pollution.php.executor": "Run",
+    "JavaScript Debug.process-reservation.php (1).executor": "Run",
+    "JavaScript Debug.process-reservation.php.executor": "Run",
+    "JavaScript Debug.register.html (1).executor": "Run",
+    "JavaScript Debug.register.html.executor": "Run",
+    "JavaScript Debug.register.php.executor": "Run",
+    "JavaScript Debug.registerAdmin.php.executor": "Run",
+    "JavaScript Debug.registerPage.php.executor": "Run",
+    "JavaScript Debug.reservation.php (1).executor": "Run",
+    "JavaScript Debug.reservation.php.executor": "Run",
+    "JavaScript Debug.resetPasswordPage.php.executor": "Run",
+    "JavaScript Debug.userPage.php (1).executor": "Run",
+    "JavaScript Debug.userPage.php.executor": "Run",
+    "JavaScript Debug.userPage1.php (1).executor": "Run",
+    "JavaScript Debug.userPage1.php (2).executor": "Run",
+    "JavaScript Debug.userPage1.php.executor": "Run",
+    "JavaScript Debug.view_users_employees.php (1).executor": "Run",
+    "JavaScript Debug.view_users_employees.php.executor": "Run",
+    "PHP Script.add_employee.php.executor": "Run",
+    "PHP Script.admin_dashboard.php.executor": "Run",
+    "PHP Script.feedback_form.php.executor": "Run",
+    "PHP Script.history.php.executor": "Run",
+    "PHP Script.reserveElectricDriver.php.executor": "Run",
+    "PHP Script.userPage1.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "javascript.nodejs.core.library.configured.version": "16.20.2",
+    "javascript.nodejs.core.library.typings.version": "16.18.124",
+    "last_opened_file_path": "C:/xampp/htdocs/eco-ride -rev58",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\eco-ride -rev2\views" />
+      <recent name="C:\studi examen\Carpooling Project\eco-ride -rev2\confige" />
+      <recent name="C:\studi examen\Carpooling Project\my project -mvc\public\assets" />
+      <recent name="C:\studi examen\Carpooling Project\my project -mvc\app\core" />
+      <recent name="C:\studi examen\Carpooling Project\my project -mvc\views\auth" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.feedback_form.php">
+    <configuration name="driverInfo.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/eco-ride -rev58/views/driverInfo.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="feedback_form.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/eco-ride -rev58/views/feedback_form.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="history.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/eco-ride -rev58/views/history.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/eco-ride -rev58/views/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="interviewDriver.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/eco-ride -rev58/views/interviewDriver.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.feedback_form.php" />
+        <item itemvalue="JavaScript Debug.history.php" />
+        <item itemvalue="JavaScript Debug.driverInfo.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.interviewDriver.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dc028b1-af34-4774-beb9-cc18fb432a43" name="Changes" comment="" />
+      <created>1734356161097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734356161097</updated>
+      <workItem from="1734356162152" duration="10590000" />
+      <workItem from="1734535453146" duration="6759000" />
+      <workItem from="1734707331608" duration="59205000" />
+      <workItem from="1734884867761" duration="72955000" />
+      <workItem from="1735809486005" duration="37048000" />
+      <workItem from="1736156665028" duration="978000" />
+      <workItem from="1736157863345" duration="1258000" />
+      <workItem from="1736243231120" duration="401000" />
+      <workItem from="1736244708326" duration="716000" />
+      <workItem from="1736245493756" duration="3594000" />
+      <workItem from="1736252511114" duration="32907000" />
+      <workItem from="1736498472182" duration="35099000" />
+      <workItem from="1737019807162" duration="28675000" />
+      <workItem from="1737455583321" duration="27000" />
+      <workItem from="1737536862727" duration="1141000" />
+      <workItem from="1737538380593" duration="5372000" />
+      <workItem from="1737544892615" duration="4497000" />
+      <workItem from="1737551351782" duration="6159000" />
+      <workItem from="1737563461527" duration="3882000" />
+      <workItem from="1737625732052" duration="38000" />
+      <workItem from="1737625847415" duration="41000" />
+      <workItem from="1737625919383" duration="46000" />
+      <workItem from="1737626039135" duration="1943000" />
+      <workItem from="1737628341722" duration="3375000" />
+      <workItem from="1737637978598" duration="5206000" />
+      <workItem from="1737645574620" duration="116000" />
+      <workItem from="1737645785709" duration="101000" />
+      <workItem from="1737646322149" duration="1667000" />
+      <workItem from="1737648362030" duration="2237000" />
+      <workItem from="1737707038683" duration="3945000" />
+      <workItem from="1737972847749" duration="3178000" />
+      <workItem from="1738063274641" duration="2931000" />
+      <workItem from="1738071430065" duration="556000" />
+      <workItem from="1738073951997" duration="74000" />
+      <workItem from="1738074071367" duration="109000" />
+      <workItem from="1738141205695" duration="659000" />
+      <workItem from="1738141960533" duration="4322000" />
+      <workItem from="1738147714951" duration="3122000" />
+      <workItem from="1738151338756" duration="4797000" />
+      <workItem from="1738159204754" duration="5358000" />
+      <workItem from="1738225646827" duration="1125000" />
+      <workItem from="1738227577891" duration="11940000" />
+      <workItem from="1738240910626" duration="9867000" />
+      <workItem from="1738253250827" duration="4790000" />
+      <workItem from="1738311672199" duration="8498000" />
+      <workItem from="1738572997175" duration="910000" />
+      <workItem from="1738574886868" duration="4177000" />
+      <workItem from="1738580190539" duration="8693000" />
+      <workItem from="1738594238551" duration="8650000" />
+      <workItem from="1738662319872" duration="34000" />
+      <workItem from="1738662461227" duration="6195000" />
+      <workItem from="1738672035665" duration="1622000" />
+      <workItem from="1738673698569" duration="20000" />
+      <workItem from="1738673779766" duration="1315000" />
+      <workItem from="1738675426166" duration="878000" />
+      <workItem from="1738676363681" duration="8531000" />
+      <workItem from="1738753572335" duration="5880000" />
+      <workItem from="1738763638486" duration="3859000" />
+      <workItem from="1738831110588" duration="273000" />
+      <workItem from="1738831454791" duration="108000" />
+      <workItem from="1738831764486" duration="1760000" />
+      <workItem from="1738833630230" duration="159000" />
+      <workItem from="1738834269780" duration="309000" />
+      <workItem from="1738834837114" duration="9929000" />
+      <workItem from="1738849076894" duration="3099000" />
+      <workItem from="1738855661654" duration="627000" />
+      <workItem from="1738856383247" duration="992000" />
+      <workItem from="1738860803671" duration="2575000" />
+      <workItem from="1738918698736" duration="6877000" />
+      <workItem from="1738928296862" duration="82000" />
+      <workItem from="1738928514734" duration="3592000" />
+      <workItem from="1738935248853" duration="189000" />
+      <workItem from="1738935693704" duration="598000" />
+      <workItem from="1738936440399" duration="107000" />
+      <workItem from="1738936808366" duration="227000" />
+      <workItem from="1739182737194" duration="13942000" />
+      <workItem from="1739202370142" duration="13460000" />
+      <workItem from="1739279426149" duration="4119000" />
+      <workItem from="1739284679869" duration="35389000" />
+      <workItem from="1739531042980" duration="17290000" />
+      <workItem from="1739695322964" duration="5343000" />
+      <workItem from="1739700696308" duration="21000" />
+      <workItem from="1739700745439" duration="1122000" />
+      <workItem from="1739701961289" duration="8163000" />
+      <workItem from="1739722856560" duration="12816000" />
+      <workItem from="1739783544975" duration="13180000" />
+      <workItem from="1739800676191" duration="8443000" />
+      <workItem from="1739810710858" duration="343000" />
+      <workItem from="1739813250214" duration="2090000" />
+      <workItem from="1739817967397" duration="14000" />
+      <workItem from="1739818040088" duration="87000" />
+      <workItem from="1739818145954" duration="5997000" />
+      <workItem from="1739833884719" duration="15980000" />
+      <workItem from="1739878992959" duration="4255000" />
+      <workItem from="1739883975142" duration="7322000" />
+      <workItem from="1739893344555" duration="13051000" />
+      <workItem from="1739918115328" duration="14065000" />
+      <workItem from="1739971849013" duration="16947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/views/admin_dashboard.php</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
